@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment_Creation_Demo</string>
+    <string name="Button_1_name">First Fragment Button</string>
+    <string name="Button_2_name">Secound Fragment Button</string>
+    <string name="Ff_layout_string">Frist Fragment name</string>
+    <string name="Fs_layout_string">Secound Fragment name</string>
+</resources>
